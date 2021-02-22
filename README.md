@@ -1,7 +1,5 @@
 # WAITING FOR DISCORD.JS NEW MAJOR VERSION (V13)
 Because I don't want to recode it.  
-**ETA**: 1 month after the release.  
-**Why?** I need to update all of my bot before I commit to this project, because I do freelance work that make bot for some community.  
 
 # Preview
 ![Bot Preview](https://i.imgur.com/JXurqCJ.gif)  
